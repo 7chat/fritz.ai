@@ -1,1 +1,1 @@
-# fritz.ai
+# Fritz AI Get
